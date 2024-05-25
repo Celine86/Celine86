@@ -11,5 +11,3 @@ I have 6 projects to complete  :
 - Build an eCommerce Website  
 - Build a Secure API for a Review App  
 - Build a Full-Stack Solution  
-  
-You can find more informations about this program [here](https://openclassrooms.com/en/paths/141-web-developer)  
